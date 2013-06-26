@@ -1,1 +1,5 @@
 This is the configutation file
+email{
+	username="d.besliu@yahoo.com"
+	password="1qaz2wsx"
+}
