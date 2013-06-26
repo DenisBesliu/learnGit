@@ -3,5 +3,6 @@ public class State{
 		System.out.println("Hello World");
 		//printed
 		System.out.println(user.name);
+		System.out.println(user.email);
 	}
 }
